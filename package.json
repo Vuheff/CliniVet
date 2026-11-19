@@ -1,0 +1,13 @@
+{
+  "name": "clinivet",
+  "version": "1.0.0",
+  "description": "CliniVet — o cuidado continua além da consulta. Projeto acadêmico.",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Vitor"
+}
